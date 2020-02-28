@@ -1,0 +1,20 @@
+i.icon{
+    font-size: 2em;
+}
+.container.main {
+    margin-top: 7em;
+}
+#delete{
+    display: inline;
+    margin: 0 5em;
+}
+#options{
+    margin: auto 0;
+    text-align: center;
+}
+#edit{
+    margin: 0 5em;
+}
+.image{
+    margin: 3em;
+}
